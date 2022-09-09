@@ -1,0 +1,9 @@
+@font-face {
+    font-family: HyliaSerif;
+    src: url("HyliaSerif.ttf") format("opentype");
+}
+
+h1 {
+    font-family: HyliaSerif;
+    letter-spacing: 4px;
+}
